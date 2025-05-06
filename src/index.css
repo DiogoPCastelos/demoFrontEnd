@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@theme {
+  --color-background: #1447e6;
+  --color-smallBox: #162456;
+  --color-input: oklch(82.8% 0.189 84.429);
+}
